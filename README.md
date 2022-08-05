@@ -1,2 +1,3 @@
 # Justforfun
-This folder contain initial idea that need further development
+Get inside !!! Some really COOL idea !!!
+This folder contain initial ideas that needs further development
